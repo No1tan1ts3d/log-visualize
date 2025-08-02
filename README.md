@@ -1,6 +1,6 @@
 # log-visualize
 
-format :
+Input format :
 ```
 [19828.956774] Command: dma-ctl qdma01000 q add idx 0 mode mm dir h2c
 [19828.957455] qdma_pf:xnl_q_add: ----- QDMA entering the xnl_q_add function at /home/agertb/dma_drivers_repo/dma_ip_drivers-master/dma_ip_drivers-master/QDMA/linux-kernel/driver/src/nl.c:1625 [Thread ID: 61548] -----
